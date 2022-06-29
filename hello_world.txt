@@ -1,3 +1,5 @@
 just adding some text
 lol
 heyheyhey
+
+adding some more info to stage, and the commit
